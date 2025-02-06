@@ -19,8 +19,6 @@
 <body>
 
     @include('partials.navbar') <!-- Navbar -->
-
-    @include('partials.hero') <!-- Hero Section -->
     
     @include('partials.content') <!-- Content Section -->
 

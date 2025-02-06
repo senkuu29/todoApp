@@ -1,3 +1,6 @@
+<div class="hero text-center">
+    <h1 class="typing-animation">Create Your Daily List Here</h1>
+</div>
 <div class="container my-5">
     <div class="row">
         <div class="col-md-8">
