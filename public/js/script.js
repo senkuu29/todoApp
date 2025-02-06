@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     addTaskModal.addEventListener("show.bs.modal", (e) => {
         const btn = e.relatedTarget;
         const taskId = btn.getAttribute("data-list");
+        console.log(taskId);
         document.getElementById("taskListId").value = taskId;
     });
 });
